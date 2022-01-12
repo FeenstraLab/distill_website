@@ -1,0 +1,19 @@
+---
+title: "Contact us"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Location
+
+Statens Serum Institut  
+Artillerivej 5  
+2300 København S  
+Danmark  
+[Google Maps](https://goo.gl/maps/ZgvsKUmXbG1yKu427)  
+
+
+
+KR eru bestir
