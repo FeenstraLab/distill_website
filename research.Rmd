@@ -1,0 +1,24 @@
+---
+title: "Research"
+---
+
+## Areas of Focus  
+The overarching goal of our research is to understand how genetic variation – small differences in our DNA – affect our health. Our research is focused on two main areas: pregnancy and selected diseases in young children. Preterm delivery and low birth weight can have detrimental effects on the health of a child. We study the influence of both the maternal and the fetal genome on when a child is born and how much it weighs at birth. The Danish National Birth Cohort is a central resource for these studies. Our second area of focus is selected diseases in young children, for which there is prior evidence that genetic factors play an important role. For these studies, we rely on information from Danish health registers (in the form of, e.g., diagnosis and surgery codes) to identify patients. We then retrieve biological specimens from the [Danish National Biobank](https://www.danishnationalbiobank.com/) for genotyping and sometimes other analyses. These resources allow us to conduct studies that would not be feasible anywhere else in the world.  
+
+
+## Highlighted Research Projects  
+### Genetics, metabolism, and the risk of two digestive system diseases in newborns  
+
+Pyloric stenosis and Hirschsprung disease were both characterized by the Danish pediatrician Harald Hirschsprung in the late 19th century. In a series of studies, we investigate the genetic background of the two diseases of the gut and also analyze a number of metabolic markers using dried blood spot samples obtained a few days after birth. One notable finding is that genetic variants influencing blood cholesterol levels are also associated with the risk of pyloric stenosis. The project contributes with important new knowledge about the regulation of metabolism very early in life, and about how the risk of two serious digestive system diseases are affected.  
+  
+Feenstra, B., Geller, F., et al. Common variants near MBNL1 and NKX2-5 are associated with infantile hypertrophic pyloric stenosis. Nature Genetics 2012; 44, 334-337. https://doi.org/10.1038/ng.1067  
+Feenstra, B., Geller, F., et al. Plasma lipids, genetic variants near APOA1, and the risk of infantile hypertrophic pyloric stenosis. JAMA 2013; 310, 714-721. https://doi.org/10.1001/jama.2013.242978  
+Fadista, J., et al. Genome-wide association study of Hirschsprung disease detects a novel low-frequency variant at the RET locus. Eur J Hum Genet 2018; 26, 561-569. https://doi.org/10.1038/s41431-017-0053-7  
+Fadista, J., Skotte, L., et al. Genome-wide meta-analysis identifies BARX1 and EML4-MTA3 as new loci associated with infantile hypertrophic pyloric stenosis. Hum Mol Genet2018; ddy347, https://doi.org/10.1093/hmg/ddy347  
+
+
+### Genetic studies of pregnancy and birth  
+Being born prematurely can have serious consequences for the health of a child. But what determines when a woman goes into labor, and why do some women deliver their babies several weeks before term? Environmental influences are important, but some of the answers also lie in the genetic variation among pregnant women and their unborn children. In collaboration with research groups in several other countries, we have analyzed the genomes of more than 40,000 women and 80,000 children. We have identified robust associations with common genetic variants affecting, e.g., the metabolism of the micronutrient selenium and the signaling between the fetus and the mother. Our genetic findings have prompted follow-up studies in cell lines to understand the molecular level mechanisms. Basic scientific knowledge from studies like these will eventually translate into improved prevention of preterm birth.  
+  
+Zhang, G., et al. Genetic Associations with Gestational Duration and Spontaneous Preterm Birth. N Engl J Med 2017; 377, 1156-1167, https://doi.org/10.1056/NEJMoa1612665  
+Liu, X., et al. Variants in the fetal genome near pro-inflammatory cytokine genes on 2q13 are associated with gestational duration. bioRxiv 2018; 423897, https://doi.org/10.1101/423897  
