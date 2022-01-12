@@ -1,0 +1,14 @@
+---
+title: "About us"
+description: |
+---
+
+
+SSI’s genetic epidemiology research is aimed at identifying genetic variants associated with health and disease and understanding the underlying molecular mechanisms. We thereby contribute to a strong foundation for subsequent translational research leading to improved prevention, diagnosis and treatment of patients.
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
