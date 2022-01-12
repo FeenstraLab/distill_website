@@ -1,0 +1,35 @@
+---
+title: "Team members"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Members of the lab:  
+
+
+
+**Bjarke Feenstra**  
+Senior researcher, group leader
+[Twitter](https://twitter.com/bjarkefeenstra)
+[LinkedIn](https://www.linkedin.com/in/bjarke-feenstra-6230374/)  
+[Contact Bjarke](mailto:fee@ssi.dk)
+
+
+**Frank Geller**  
+Senior researcher  
+
+**Xiaoping Wu**
+Postdoc
+
+**Niklas Andersson**
+PhD student
+
+**Salvör Ísberg**
+Student research assistant
+
+**João Fadista**
+Affiliated researcher
+
+**Line Skotte**
+Affiliated researcher
