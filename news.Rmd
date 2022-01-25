@@ -1,0 +1,7 @@
+---
+title: "News"
+description: |
+listing: posts
+---
+
+Test news page
