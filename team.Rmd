@@ -10,9 +10,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 **Bjarke Feenstra**  
-Senior researcher, group leader
-[Twitter](https://twitter.com/bjarkefeenstra)
-[LinkedIn](https://www.linkedin.com/in/bjarke-feenstra-6230374/)  
+Senior researcher, group leader  
+[Twitter](https://twitter.com/bjarkefeenstra)  
+[LinkedIn](https://www.linkedin.com/in/bjarke-feenstra-6230374/)    
 [Contact Bjarke](mailto:fee@ssi.dk)
 
 
