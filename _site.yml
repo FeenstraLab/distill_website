@@ -3,7 +3,7 @@ title: "FeenstraLab"
 description: |
   FeenstraLab
 output_dir: "_site"
-theme: theme2.css
+theme: theme.css
 navbar:
   right:
     - text: "Home"
