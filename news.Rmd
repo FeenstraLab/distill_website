@@ -4,4 +4,3 @@ description: |
 listing: posts
 ---
 
-Test news page
