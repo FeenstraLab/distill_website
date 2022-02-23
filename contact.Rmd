@@ -12,7 +12,12 @@ Statens Serum Institut
 Artillerivej 5  
 2300 København S  
 Danmark  
-[Google Maps](https://goo.gl/maps/ZgvsKUmXbG1yKu427)  
 
+```{r, layout="l-screen-inset shaded"}
+library(leaflet)
 
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=12.58735, lat=55.66623)
+```
 
