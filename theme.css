@@ -73,7 +73,10 @@ d-appendix {
   --bkgd-color:       #0F2E3D;
 }
 
-
+body {
+     color: white;
+     background: url('/images/ssi.png') no-repeat top center;
+}
 /*-- Additional custom styles --*/
 
 .posts-list .metadata .publishedDate {
