@@ -4,7 +4,6 @@ description: |
   FeenstraLab
 output_dir: "_site"
 navbar:
-  logo: ./images/ssi.png
   right:
     - text: "Home"
       href: index.html
