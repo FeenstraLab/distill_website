@@ -3,8 +3,8 @@ title: "FeenstraLab"
 description: |
   FeenstraLab
 output_dir: "_site"
-theme: theme.css
 navbar:
+  logo: ./images/ssi.png
   right:
     - text: "Home"
       href: index.html
