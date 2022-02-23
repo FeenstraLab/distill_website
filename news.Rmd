@@ -1,7 +1,6 @@
 ---
-title: "News"
+title: ""
 description: |
 listing: posts
 ---
 
-edit
