@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-css: CSSBackgrounds.css
+css: tidy.css
 ---
 
 ## Journal articles
