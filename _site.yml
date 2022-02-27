@@ -1,6 +1,6 @@
 name: "FeenstraLab"
 title: "FeenstraLab"
-theme: tidy.css
+theme: tidy_color.css
 base_url: https://FeenstraLab.github.io/
 output_dir: "_site"
 navbar:
