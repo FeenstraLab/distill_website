@@ -1,9 +1,15 @@
 ---
 title: "FeenstraLab"
-site: distill::distill_website
-#listing: posts
-
-
+output:
+  distill::distill_article:
+    toc: true
+    theme: tidy_color_back.css
 ---
 
-Here is a text.....
+# here we can add three words or something, for example:
+
+**Pregnancy**
+
+**Epidemiology**
+
+**Flødeboller**
