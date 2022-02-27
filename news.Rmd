@@ -1,6 +1,7 @@
 ---
-title: ""
-description: |
-listing: posts
+title: "News"
+site: distill::distill_website
+listing: _posts
 ---
 
+hjkh
