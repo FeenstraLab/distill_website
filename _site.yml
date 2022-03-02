@@ -19,6 +19,7 @@ navbar:
       href: team.html 
     - text: "Contact Us"
       href: contact.html 
+  search: false
 output: 
   distill::distill_article:
 
