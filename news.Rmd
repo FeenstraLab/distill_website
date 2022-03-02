@@ -1,7 +1,6 @@
 ---
 title: "News"
-site: distill::distill_website
-listing: _posts
+listing:
+  posts:
+    - 2022-01-26-largest-gwas-of-febrile-seizures
 ---
-
-hjkh
