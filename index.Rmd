@@ -5,6 +5,9 @@ output:
     toc: true
     theme: tidy_color_back.css
 ---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 ## here we can add three words or something, for example:
 ### H3
@@ -13,4 +16,18 @@ output:
 
 **Epidemiology**
 
-**Flødeboller**
+**Flødeboller**  
+.  
+.  
+.
+```{r}
+library(magick)
+library(cowplot)
+library(ggplot2)
+
+p1 <- ggdraw() + draw_image("https://image.cnbcfm.com/api/v1/image/106832365-1611930800281lord-of-the-rings-Cropped-jpg?v=1611930819&w=1600&h=900", scale = 0.9)
+p2 <- ggdraw() + draw_image("https://th.bing.com/th/id/OIP.ArCAWTsoYtsxVfYS8EzGbQHaEK?pid=ImgDet&rs=1", scale = 0.9)
+
+plot_grid(p1, p2)
+```
+
