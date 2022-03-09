@@ -9,14 +9,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## here we can add three words or something, for example:
-### H3
+## We study how genetics affects health and disease in pregnancy and childhood
 
-**Pregnancy**
 
-**Epidemiology**
-
-**Flødeboller**  
 .  
 .  
 .
