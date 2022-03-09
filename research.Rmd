@@ -22,3 +22,17 @@ Being born prematurely can have serious consequences for the health of a child. 
   
 Zhang, G., et al. Genetic Associations with Gestational Duration and Spontaneous Preterm Birth. N Engl J Med 2017; 377, 1156-1167, https://doi.org/10.1056/NEJMoa1612665  
 Liu, X., et al. Variants in the fetal genome near pro-inflammatory cytokine genes on 2q13 are associated with gestational duration. bioRxiv 2018; 423897, https://doi.org/10.1101/423897  
+
+
+### Pregnancy
+text about pregnancy
+
+### childhood health
+text about childhood health
+
+### pharmacogenetics
+text about pharmacogenetics
+
+### genetic studies in Greenland
+text about genetic studies in Greenland
+
