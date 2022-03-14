@@ -28,11 +28,18 @@ Liu, X., et al. Variants in the fetal genome near pro-inflammatory cytokine gene
 text about pregnancy
 
 ### childhood health
-text about childhood health
+text about childhood health  
+#### Febrile seizures
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wSwozoapOh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### pharmacogenetics
 text about pharmacogenetics
 
 ### genetic studies in Greenland
 text about genetic studies in Greenland
+
+<iframe src="https://player.vimeo.com/video/223094867?h=6261f67c95" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/223094867">Fed kost fra havene har modificeret gr&oslash;nl&aelig;nderes gener_Eng</a> from <a href="https://vimeo.com/user13690158">Novo Nordisk Fonden</a> </p>
 
