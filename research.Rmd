@@ -29,8 +29,8 @@ text about pregnancy
 
 ### childhood health
 text about childhood health  
-#### Febrile seizures
 
+#### Febrile seizures
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wSwozoapOh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -39,6 +39,11 @@ text about pharmacogenetics
 
 ### genetic studies in Greenland
 text about genetic studies in Greenland
+
+#### High-fat marine diet has altered Greenlanders’ genes.
+For thousands of years, Greenlanders have lived in isolation and have eaten a diet high in fat and low in carbohydrate. Researchers have discovered a gene variant carried by every person with solely Greenlandic ancestors. This gene variant has helped them to metabolize the fat from their diet. The CPT1A gene encodes for an enzyme called carnitine palmitoyltransferase 1A, which regulates the transport of fatty acids within mitochondria, the energy-producing centres in the cells. The rs80356779 variant in the indigenous Greenlanders changes only one of the 773 amino acids in the enzyme, but this still strongly influences metabolism.  
+The gene variant was present in all the participants who solely had Greenlandic ancestors. The researchers did not find this gene variant in other population groups from Europe and China. A comparison of the frequency of the adjacent genetic variants in Greenlandic, European and Chinese populations confirmed that positive selection caused the variant.  
+Read more about this reasearch [here](https://pubmed.ncbi.nlm.nih.gov/28611031/)
 
 <iframe src="https://player.vimeo.com/video/223094867?h=6261f67c95" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/223094867">Fed kost fra havene har modificeret gr&oslash;nl&aelig;nderes gener_Eng</a> from <a href="https://vimeo.com/user13690158">Novo Nordisk Fonden</a> </p>
