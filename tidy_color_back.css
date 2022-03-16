@@ -73,14 +73,17 @@ d-appendix {
   --bkgd-color:       #00bfff;
 }
 
+
+}
+
+/*-- Additional custom styles --*/
+
 body {
-  background-image: url('./images/dna.jpg');
+  background-image: url('https://th.bing.com/th/id/OIP.b2vh80ds_zbtaAf0UIrkEwHaFU?pid=ImgDet&rs=1');
   background-repeat: no-repeat;
   background-size: 100%;
   
 }
-
-/*-- Additional custom styles --*/
 
 .categories li > a:hover {
     color: #00ff00;
