@@ -27,6 +27,19 @@ Liu, X., et al. Variants in the fetal genome near pro-inflammatory cytokine gene
 ### Pregnancy
 text about pregnancy
 
+#### Babies' own genes influence when they are born
+When a woman is pregnant, when she delivers is important to the health of herself and her child. Preterm birth is a major cause of health problems and is the leading cause of death in children under the age of 5 years worldwide. Conversely, if a pregnancy goes far past the due date, the risk of birth complications and stillbirth increases. But what determines when a woman goes into labor?  
+In the study, the researchers started by analyzing genetic information from 84,689 children from 20 different cohorts in eight countries.
+In a small area on chromosome 2, the researchers discovered a clear statistical association between common genetic variant in the babies and the timing of delivery.  
+By looking at genetic variants in this area, the researchers discovered that the children could be divided into three groups that differed slightly in terms of their genetics. The children in the first group were, on average, born approximately nine hours earlier than the children in the second group, who themselves were born an average of nine hours earlier than the children in the third group.  
+"The results cannot be used to predict time of delivery. The important message is that we have now established with great certainty that genetic variation at this particular place in the fetal genome has a biological effect on the duration of pregnancy, small as it may be. This new knowledge will be an important stepping stone in the efforts to better understand the biology behind how delivery is initiated," says Bjarke Feenstra.  
+Biologically, this small area on chromosome 2 is particularly interesting as it harbors a group of genes of the so-called interleukin-1 family that produce inflammatory cytokines. In the days and hours leading up to delivery, these cytokines are known to play a central role in the activation of the uterus, detachment and rupturing of the fetal membranes, ripening of the cervix, and initiation of contractions.  
+Read more about the research [here](https://www.nature.com/articles/s41467-019-11881-8)  
+[Podcast](https://www.podbean.com/ew/pb-j2p7j-bde213) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kyma3SVYt6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+
 ### childhood health
 text about childhood health  
 
