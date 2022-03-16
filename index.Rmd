@@ -1,9 +1,7 @@
 ---
 title: "FeenstraLab"
-output:
-    distill::distill_article:
-    toc: true
-    theme: tidy_color_back.css
+description: |
+
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -11,8 +9,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## We study how genetics affects health and disease in pregnancy and childhood
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6A5EpqqDOdk" frameborder="0" allowfullscreen></iframe>
 
+<style>  
+body{  
+background-image:url("./images/dna.jpg");  
+background-size: 1500px 183px;
+}  
+</style>  
 
 
 <div style="width: 2000px; height: 90px;">
