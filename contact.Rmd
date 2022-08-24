@@ -13,11 +13,21 @@ Artillerivej 5
 2300 København S  
 Danmark  
 
+
 ```{r, layout="l-screen-inset shaded"}
 library(leaflet)
 
-leaflet() %>%
+##content <- paste(sep = "<br/>",
+##  "<b><a href='https://www.ssi.dk/'>Statens Serum Institut</a></b>",
+##  "Artillerivej 5 ",
+##  "2300 København S")
+
+
+m <- leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=12.58735, lat=55.66623)
+  addMarkers(lng=12.587480, lat=55.666080)  %>%
+  addCircleMarkers(lng = 12.587480, lat = 55.666080, color = 'blue')
+##  addPopups(12.58735, 55.66623, content, options = popupOptions(closeButton = FALSE))
+m
 ```
 
