@@ -4,6 +4,21 @@ title: "Publications"
 
 ## Journal articles
 
+Fadista J, Skotte L, Karjalainen J, Abner E, Sørensen E, Ullum H, Werge T, iPSYCH Group, Esko T, Milani L, Palotie A, Daly M, FinnGen Consortium, Melbye M, Feenstra B, Geller F. **Comprehensive genome-wide association study of different forms of hernia identifies more than 80 associated loci**. Nature Communications 2022; 13:2300. [![pubmeb](./images/pubmed-icon.png "pubmeb")](https://pubmed.ncbi.nlm.nih.gov/35680855/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41467-022-30921-4)
+
+
+Vogelezang S, Bradfield JP, the Early Growth Genetics Consortium, Grant SFA, Felix JF, Jaddoe VWV. **Genetics of early-life head circumference and genetic correlations with neurological, psychiatric and cognitive outcomes.** BMC Medical Genomics 2022; 15:124. [![pubmeb](./images/pubmed-icon.png "pubmeb")](https://pubmed.ncbi.nlm.nih.gov/35659227/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1186/s12920-022-01281-1)
+
+
+Jørsboe E, Andersen MK, Skotte L, Færgeman NJ, Hanghøj K, Santander CG, Senftleber NK, Diaz LJ, Tvermosegaard M, Waples RK, Geller F, Bjerregaard P, Melbye M, Larsen CVL, Feenstra B, Koch A, Jørgensen ME, Grarup N, Moltke I, Albrechtsen A, Hansen T. **An LDLR missense variant poses high risk of familial hypercholesterolemia in 30% of Greenlanders and offers potential for early cardiovascular disease intervention.** Human Genetics and Genomics Advances (in press). 
+
+
+Skotte L, Fadista J, Bybjerg-Grauholm J, Appadurai V, Hildebrand MS, Hansen TF, Banasik K, Grove J, Albiñana C, Geller F, Bjurström CF, Vilhjálmsson BJ, Coleman M, Damiano JA, Burgess R, Scheffer IE, Pedersen OV, Erikstrup C, Westergaard D, Nielsen KR, Sørensen E, Bruun MT, Liu X, Hjalgrim H, Pers TH, Mortensen PB, Mors O, Nordentoft M, Dreier JW, Børglum AD, Christensen J, David M Hougaard DM, Buil A, Hviid A, Melbye M, Ullum H, Berkovic SF, Werge T, Feenstra B. **Genome-wide association study of febrile seizures implicates fever response and neuronal excitability genes.** Brain 2022; 145:555–568. [![pubmeb](./images/pubmed-icon.png "pubmeb")](https://pubmed.ncbi.nlm.nih.gov/35022648/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/brain/awab260)
+
+
+
+
+
 Skotte L, Fadista J, Bybjerg-Grauholm J, Appadurai V, Hildebrand MS, Hansen TF, Banasik K, Grove J, Albiñana C, Geller F, Bjurström CF, Vilhjálmsson BJ, Coleman M, Damiano JA, Burgess R, Scheffer IE, Pedersen OV, Erikstrup C, Westergaard D, Nielsen KR, Sørensen E, Bruun MT, Liu X, Hjalgrim H, Pers TH, Mortensen PB, Mors O, Nordentoft M, Dreier JW, Børglum AD, Christensen J, David M Hougaard DM, Buil A, Hviid A, Melbye M, Ullum H, Berkovic SF, Werge T, Feenstra B. **Genome-wide association study of febrile seizures implicates fever response and neuronal excitability genes.** Brain; in press.  
 
 
