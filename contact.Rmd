@@ -10,8 +10,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Statens Serum Institut  
 Artillerivej 5  
-2300 København S  
-Danmark  
+2300 Copenhagen S  
+Denmark  
+
+Copenhagen Hospital Biobank Unit  
+Copenhagen University Hospital, Rigshospitalet  
+Tagensvej 20/Ole Maaløesvej 26  
+2200 Copenhagen N  
+Denmark
+
 
 
 ```{r, layout="l-screen-inset shaded"}
@@ -25,9 +32,26 @@ library(leaflet)
 
 m <- leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=12.587480, lat=55.666080)  %>%
-  addCircleMarkers(lng = 12.587480, lat = 55.666080, color = 'blue')
+  addMarkers(lng=12.587480, lat=55.666080, popup = "Statens Serum Institut")  %>%
+  addCircleMarkers(lng = 12.587480, lat = 55.666080, color = 'blue') %>%
+ addMarkers(lng=12.560487, lat=55.698987, popup = "Statens Serum Institut")  %>%
+  addCircleMarkers(lng = 12.560487, lat = 55.698987, color = 'red')
 ##  addPopups(12.58735, 55.66623, content, options = popupOptions(closeButton = FALSE))
 m
+
+
+
+
+#n <- leaflet() %>%
+ # addTiles() %>%  # Add default OpenStreetMap map tiles
+  #addMarkers(lng=12.560487, lat=55.698987, popup = "Statens Serum Institut")  %>%
+ # addCircleMarkers(lng = 12.560487, lat = 55.698987, color = 'red')
+##  addPopups(12.58735, 55.66623, content, options = popupOptions(closeButton = FALSE))
+#n
+
+
+
 ```
+
+
 
