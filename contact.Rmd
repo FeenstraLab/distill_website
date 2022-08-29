@@ -32,7 +32,7 @@ library(leaflet)
 
 m <- leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=12.587480, lat=55.666080, popup = "Statens Serum Institut")  %>%
+  addMarkers(lng=12.587480, lat=55.666080, popup = "Copenhagen Hospital Biobank Unit ")  %>%
   addCircleMarkers(lng = 12.587480, lat = 55.666080, color = 'blue') %>%
  addMarkers(lng=12.560487, lat=55.698987, popup = "Statens Serum Institut")  %>%
   addCircleMarkers(lng = 12.560487, lat = 55.698987, color = 'red')
