@@ -20,7 +20,7 @@ Tagensvej 20/Ole Maaløesvej 26
 Denmark
 
 
-
+<!-- 
 ```{r, layout="l-screen-inset shaded"}
 library(leaflet)
 
@@ -50,6 +50,28 @@ m
 #n
 
 
+
+```
+-->
+
+
+
+
+```{r, layout="l-screen-inset shaded"}
+# Change Text Size and text Only and also a custom CSS
+leaflet() %>% addTiles() %>% setView(12.55, 55.69, 12) %>%
+  addMarkers(
+    lng = 12.587480, lat = 55.666080,
+    label = "Statens Serum Institut",
+    labelOptions = labelOptions(noHide = T)) %>%
+  addMarkers(
+    lng = 12.560487, lat = 55.698987,
+    label = "Copenhagen Hospital Biobank Unit",
+    labelOptions = labelOptions(noHide = T)) %>%
+  addMarkers(lng=12.587480, lat=55.666080, popup = "Copenhagen Hospital Biobank Unit ")  %>%
+  addCircleMarkers(lng = 12.587480, lat = 55.666080, color = 'blue') %>%
+ addMarkers(lng=12.560487, lat=55.698987, popup = "Statens Serum Institut")  %>%
+  addCircleMarkers(lng = 12.560487, lat = 55.698987, color = 'red')
 
 ```
 
