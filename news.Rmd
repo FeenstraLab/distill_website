@@ -4,7 +4,6 @@ description: |
 listing:
   posts:
     - 2022-01-26-largest-gwas-of-febrile-seizures
-    - 2022-03-09-the-sharpe-ratio
     - 2022-08-24-hernia
 ---
 
