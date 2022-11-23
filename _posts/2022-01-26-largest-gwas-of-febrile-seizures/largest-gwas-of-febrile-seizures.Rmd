@@ -1,7 +1,7 @@
 ---
 title: "Largest GWAS of febrile seizures"
 description: |
-  Large-scale case-control study implicates genes critical for fever response and genes for communication between nerve cells.
+  Paper published! Genetic variants related in fever response genes and genes for nerve cell signalling associate with febrile seizures.
 date: 01-26-2022
 output:
   distill::distill_article:

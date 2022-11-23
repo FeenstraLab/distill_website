@@ -8,57 +8,40 @@ The overarching goal of our research is to make robust new biological discoverie
 
 
 ## Highlighted Research Projects  
-### Genetics, metabolism, and the risk of a digestive system disease in newborns  
+### Febrile seizures
+Febrile seizures affect 1 in 25 children before the age of 5, and thereby represent the most common type of pathological brain activity in young children. Yet there is still much to be learned about the underlying genetic, developmental and environmental factors. Based on health register data on hospital admissions with febrile seizures and on samples from the Danish National Biobank, we have carried out the world's largest genome-wide association studies (GWAS) of the condition. For example studies see: 
 
-The disease pyloric stenosis was characterized by the Danish pediatrician [Harald Hirschsprung](https://en.wikipedia.org/wiki/Harald_Hirschsprung) in the late 19th century. In a series of studies, we analyze genetics and metabolomics using dried blood spot samples obtained a few days after birth. One notable finding is that genetic variants influencing blood cholesterol levels are also associated with the risk of pyloric stenosis. For example studies see: 
-  
-* Feenstra, B., Geller, F., et al. Common variants near MBNL1 and NKX2-5 are associated with infantile hypertrophic pyloric stenosis. Nature Genetics 2012; 44, 334-337.   [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/ng.1067).
-* Feenstra, B., Geller, F., et al. Plasma lipids, genetic variants near APOA1, and the risk of infantile hypertrophic pyloric stenosis. JAMA 2013; 310, 714-721. https://doi.org/10.1001/jama.2013.242978  
-* Fadista, J., et al. Genome-wide association study of Hirschsprung disease detects a novel low-frequency variant at the RET locus. Eur J Hum Genet 2018; 26, 561-569. https://doi.org/10.1038/s41431-017-0053-7  
-* Fadista, J., Skotte, L., et al. Genome-wide meta-analysis identifies BARX1 and EML4-MTA3 as new loci associated with infantile hypertrophic pyloric stenosis. Hum Mol Genet2018; ddy347, https://doi.org/10.1093/hmg/ddy347  
+* Feenstra B, et al. Common variants associated with general and MMR vaccinerelated febrile seizures. Nature Genetics 2014; 46: 1274-1282. Impact factor: 38.330.  [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/ng.3129)
+* Skotte L, et al. Genome-wide association study of febrile seizures implicates fever response and neuronal excitability genes. Brain 2022; 145:555–568. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/brain/awab260)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wSwozoapOh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Genetic studies of pregnancy and birth  
-Being born prematurely can have serious consequences for the health of a child. But what determines when a woman goes into labor, and why do some women deliver their babies several weeks before term? Environmental influences are important, but some of the answers also lie in the genetic variation among pregnant women and their unborn children. In collaboration with research groups in several other countries, we have analyzed the genomes of more than 40,000 women and 80,000 children. We have identified robust associations with common genetic variants affecting, e.g., the metabolism of the micronutrient selenium and the signaling between the fetus and the mother. Our genetic findings have prompted follow-up studies in cell lines to understand the molecular level mechanisms. Basic scientific knowledge from studies like these will eventually translate into improved prevention of preterm birth.  
+When a woman is pregnant, when she delivers is important to the health of herself and her child. Preterm birth is a major cause of health problems and is the leading cause of death in children under the age of 5 years worldwide. Conversely, if a pregnancy goes far past the due date, the risk of birth complications and stillbirth increases. But what determines when a woman goes into labor? Also, the growth of the fetus and of the placenta are important for proper development of the baby and is associated with future health. In collaboration with numerous international groups, e.g. in the [Early Growth Genetics Consortium](http://egg-consortium.org/), we have identified robust associations between common genetic variation and a range of outcomes related to pregnancy and birth. For example studies see:
   
-Zhang, G., et al. Genetic Associations with Gestational Duration and Spontaneous Preterm Birth. N Engl J Med 2017; 377, 1156-1167, https://doi.org/10.1056/NEJMoa1612665  
-Liu, X., et al. Variants in the fetal genome near pro-inflammatory cytokine genes on 2q13 are associated with gestational duration. bioRxiv 2018; 423897, https://doi.org/10.1101/423897  
-
-
-### Pregnancy
-text about pregnancy
-
-#### Babies' own genes influence when they are born
-When a woman is pregnant, when she delivers is important to the health of herself and her child. Preterm birth is a major cause of health problems and is the leading cause of death in children under the age of 5 years worldwide. Conversely, if a pregnancy goes far past the due date, the risk of birth complications and stillbirth increases. But what determines when a woman goes into labor?  
-In the study, the researchers started by analyzing genetic information from 84,689 children from 20 different cohorts in eight countries.
-In a small area on chromosome 2, the researchers discovered a clear statistical association between common genetic variant in the babies and the timing of delivery.  
-By looking at genetic variants in this area, the researchers discovered that the children could be divided into three groups that differed slightly in terms of their genetics. The children in the first group were, on average, born approximately nine hours earlier than the children in the second group, who themselves were born an average of nine hours earlier than the children in the third group.  
-"The results cannot be used to predict time of delivery. The important message is that we have now established with great certainty that genetic variation at this particular place in the fetal genome has a biological effect on the duration of pregnancy, small as it may be. This new knowledge will be an important stepping stone in the efforts to better understand the biology behind how delivery is initiated," says Bjarke Feenstra.  
-Biologically, this small area on chromosome 2 is particularly interesting as it harbors a group of genes of the so-called interleukin-1 family that produce inflammatory cytokines. In the days and hours leading up to delivery, these cytokines are known to play a central role in the activation of the uterus, detachment and rupturing of the fetal membranes, ripening of the cervix, and initiation of contractions.  
-Read more about the research [here](https://www.nature.com/articles/s41467-019-11881-8)  
-[Podcast](https://www.podbean.com/ew/pb-j2p7j-bde213) 
+* Zhang, G., et al. Genetic Associations with Gestational Duration and Spontaneous Preterm Birth. N Engl J Med 2017; 377, 1156-1167, [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1056/NEJMoa1612665)  
+* Beaumont RN, et al. Genome-wide association study of offspring birth weight in 86,577 women identifies five novel loci and highlights maternal genetic effects that are independent of fetal genetics. Human Molecular Genetics 2018; 27, 742-756. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/hmg/ddx429)
+* Liu, X., et al. Variants in the fetal genome near pro-inflammatory cytokine genes on 2q13 are associated with gestational duration. Nature Communications 2019; 10: 3927, [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1101/423897)  
+  
+You can hear about the research [In this Podcast](https://www.podbean.com/ew/pb-j2p7j-bde213) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kyma3SVYt6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 
-### childhood health
-text about childhood health  
+### Genetics, metabolism, and the risk of a digestive system disease in newborns  
 
-#### Febrile seizures
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wSwozoapOh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The disease pyloric stenosis was characterized by the Danish pediatrician [Harald Hirschsprung](https://en.wikipedia.org/wiki/Harald_Hirschsprung) in the late 19th century. In a series of studies, we analyze genetics and metabolomics using dried blood spot samples obtained a few days after birth. One notable finding is that genetic variants influencing blood lipid levels are also associated with the risk of pyloric stenosis. For example studies see: 
+  
+* Feenstra, B., Geller, F., et al. Common variants near MBNL1 and NKX2-5 are associated with infantile hypertrophic pyloric stenosis. Nature Genetics 2012; 44, 334-337.   [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/ng.1067)
+* Feenstra, B., Geller, F., et al. Plasma lipids, genetic variants near APOA1, and the risk of infantile hypertrophic pyloric stenosis. JAMA 2013; 310, 714-721. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1001/jama.2013.242978)  
+* Fadista, J., Skotte, L., et al. Genome-wide meta-analysis identifies BARX1 and EML4-MTA3 as new loci associated with infantile hypertrophic pyloric stenosis. Hum Mol Genet 2019; 28, 332-340. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/hmg/ddy347)  
+* Fadista J, Skotte L, Courraud J, Geller F, Gørtz S, Wohlfahrt J, Melbye M, Cohen AS, Feenstra B. Integrating genetics with newborn metabolomics in infantile hypertrophic pyloric stenosis. Metabolomics 2021; 17:7.[![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1007/s11306-020-01763-2)  
 
 
-### pharmacogenetics
-text about pharmacogenetics
+### Genetic studies in Greenland
+For thousands of years, Greenlanders have lived in isolation and have eaten a diet high in fat and low in carbohydrate. We have conducted a population-based health study in seven towns across Greenland and have conducted studies of genetics and metabolism in collaboration with researchers at the University of Copenhagen and elsewhere. For example studies see: 
 
-### genetic studies in Greenland
-text about genetic studies in Greenland
-
-#### High-fat marine diet has altered Greenlanders’ genes.
-For thousands of years, Greenlanders have lived in isolation and have eaten a diet high in fat and low in carbohydrate. Researchers have discovered a gene variant carried by every person with solely Greenlandic ancestors. This gene variant has helped them to metabolize the fat from their diet. The CPT1A gene encodes for an enzyme called carnitine palmitoyltransferase 1A, which regulates the transport of fatty acids within mitochondria, the energy-producing centres in the cells. The rs80356779 variant in the indigenous Greenlanders changes only one of the 773 amino acids in the enzyme, but this still strongly influences metabolism.  
-The gene variant was present in all the participants who solely had Greenlandic ancestors. The researchers did not find this gene variant in other population groups from Europe and China. A comparison of the frequency of the adjacent genetic variants in Greenlandic, European and Chinese populations confirmed that positive selection caused the variant.  
-Read more about this reasearch [here](https://pubmed.ncbi.nlm.nih.gov/28611031/)
+* Skotte L, et al. A CPT1A missense mutation associated with fatty acid metabolism and reduced height in Greenlanders. Circulation Cardiovascular Genetics 2017; 10 (3):e001618. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1161/CIRCGENETICS.116.001618)
+* Andersen MK, et al. Loss of sucrase-isomaltase function increases acetate levels and improves metabolic health in Greenlandic cohorts. Gastroenterology 2022, 162(4), 1171-1182. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1053/j.gastro.2021.12.236)
 
 <iframe src="https://player.vimeo.com/video/223094867?h=6261f67c95" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/223094867">Fed kost fra havene har modificeret gr&oslash;nl&aelig;nderes gener_Eng</a> from <a href="https://vimeo.com/user13690158">Novo Nordisk Fonden</a> </p>
-
