@@ -7,14 +7,14 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "News"
-      href: News.html
     - text: "About"
       href: about.html
-    - text: "Publications"
-      href: publications.html  
     - text: "Research"
       href: Research.html  
+    - text: "Publications"
+      href: publications.html  
+    - text: "News"
+      href: News.html
     - text: "Team"
       href: team.html 
     - text: "Contact Us"

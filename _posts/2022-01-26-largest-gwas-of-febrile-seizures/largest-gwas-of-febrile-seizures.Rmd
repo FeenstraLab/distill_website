@@ -1,7 +1,7 @@
 ---
 title: "Largest GWAS of febrile seizures"
 description: |
-  Paper published! Genetic variants related in fever response genes and genes for nerve cell signalling associate with febrile seizures.
+  Paper published! Variants in fever response genes and genes for nerve cell signalling associate with febrile seizures.
 date: 01-26-2022
 output:
   distill::distill_article:
@@ -14,53 +14,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Discovery of genetic variants linked to febrile seizures
+It is usually an unexpected and frightening experience for parents when their child has a febrile seizure. Occurring in 3-5% of infants febrile seizures are the most common type of abnormal brain activity during childhood. We led a large-scale GWAS in collaboration with other research groups in Denmark and Australia and identified seven novel regions of the genome linked to febrile seizures in the largest genetic study reported for this common childhood disorder.
 
+Here's a summary of the study in [Danish](https://www.ssi.dk/aktuelt/nyheder/2022/nyt-studie-ledet-af-statens-serum-institut-kortlagger-genetiske-arsager-til-feberkramper) and [English](https://en.ssi.dk/news/news/2022/discovery-of-genetic-variants-linked-to-febrile-seizures).
 
-It is usually an unexpected and frightening experience for parents when their child has a febrile seizure. Occurring in 3-5% of infants febrile seizures are the most common type of abnormal brain activity during childhood. While most febrile seizures are benign and self-limiting with no recurrence, about 7% of children with febrile seizures will later develop epilepsy.
+The research is supported by an Ascending Investigator grant from the Lundbeck Foundation, who have also written about our research in [Danish](https://lundbeckfonden.com/uddelinger-priser/forskningshistorier/ny-viden-om-genetiske-arkitektur-bag-feberkramper-hos) and [English](https://lundbeckfonden.com/en/grants-and-prizes/reseach-stories/new-knowledge-about-the-genetic-architecture-underlying-febrile).
 
-Now, a new international genetic study led by researchers from Statens Serum Institut (SSI) in Copenhagen and conducted in collaboration with other research groups in Denmark and Australia have identified seven novel regions of the genome linked to febrile seizures in the largest case-control study reported for this common childhood disorder.
-
-The research has just been published in the leading international neurological journal Brain.
-
-##  Genes related to fever response
-The researchers analyzed variants in the DNA of 7,635 children from Denmark and Australia, who had experienced one or more episodes of febrile seizures. They also analyzed a control group of 83,966 children without febrile seizures.
-
-Almost 7 million genetic variants were interrogated and the study identified seven new gene regions robustly linked to increased risk of developing febrile seizures. The study also confirmed four previously known genetic associations for febrile seizures established by the same team in 2014.
-
-Two of the new regions contained genes of major importance in the development of fevers in mammals. For one gene, called PTGER3, the mechanism has been elucidated in mouse experiments. When this gene was silenced in a specific brain region called the median preoptic nucleus, the mice were unable to develop fevers. Another gene called IL10 encodes a signalling molecule that normally functions to suppress fevers.
-
-Dr Bjarke Feenstra, a senior researcher and group leader at Statens Serum Institut in Denmark, who was the lead author of the study, said: “The connections to fever response are intriguing. We hypothesize that genetic changes that affect the way the PTGER3 and IL10 genes function may lead to a more pronounced fever response, which in turn could increase the susceptibility of children to febrile seizures”.
-
-##  Genes for communication between nerve cells related to epilepsies
-Other associated regions contained genes that help facilitate communication between nerve cells. These include genes encoding structural proteins that form the terminals, called synapses, where nerve cells meet, and proteins at these synapses which control the release of key nerve signalling molecules known as neurotransmitters.
-
-One association signal was within the gene GABRG2, already well-known from epilepsy genetics research. The gene encodes a subunit for a receptor for the compound GABA, which is the major inhibitory neurotransmitter of the central nervous system.
-
-Professor Samuel Berkovic from the University of Melbourne, who is a senior author of the study investigated this gene 20 years ago, and he and his colleagues found that rare variants in the gene were responsible for childhood absence epilepsy and febrile seizures in a large family. The findings of the present study suggest that common variants in this gene region also increase the risk of milder isolated febrile seizures through more subtle effects on GABA signalling.
-
-“The link between febrile seizures and epilepsy has been known for years but its genetic underpinnings are only now emerging. GABRG2 is increasingly recognized as an important gene for epilepsy and this new clear link to febrile seizures is another important piece in this puzzle”, said Professor Berkovic.
-
-## Connections to other diseases
-The researchers also combined common genetic variation across the genome and found an overall positive genetic correlation between febrile seizures and the risk of developing epilepsy.
-
-By combining genetic information into a so-called polygenic risk score, the researchers estimated genetic susceptibility to febrile seizures for each individual in the study. They found that among children with febrile seizures, having a higher polygenic risk score was on average associated with a slightly younger age at first hospital admission with a febrile seizures diagnosis, as well as a higher total number of admissions to hospital with febrile seizures.
-
-Finally, the researchers performed analyses within the Danish iPSYCH cohort, which includes data on several different neuropsychiatric diseases or those without these diseases. Previous epidemiological studies have reported associations between epilepsy and to a lesser degree febrile seizures, and the risk of psychiatric disorders.
-
-However, counter to these previous findings, the researchers in the current study did not find increased genetic risk for febrile seizures among individuals with the psychiatric disease compared to those without these diseases. In fact, the genetic susceptibility to febrile seizures in cases with febrile seizures was found to be slightly lower in those who also had a neuropsychiatric disease.
-
-## Future studies
-The physiological processes that lead to seizures with and without fever are highly complex, and the researchers plan more studies, particularly focusing on those children with febrile seizures who later develop epilepsy.
-
-“Understanding the genetic similarities and differences between febrile seizures and epilepsies is a fascinating area of research that we plan to investigate in future studies. The Danish registers and the samples in the Danish National Biobank provide unique opportunities for this type of research“, concluded Dr Feenstra.
-
-This study had the generous support of a number of funding bodies including major contributions from the Lundbeck Foundation, the Oak Foundation, the Danish Medical Research Council, and the US National Institutes of Health.
-
-The paper, “Genome-wide association study of febrile seizures implicates fever response and neuronal excitability genes”, is published in Brain on 12 January 2022.
-
-
-
-You can read the research here [here](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awab260/6503584)
+The article ["Genome-wide association study of febrile seizures implicates fever response and neuronal excitability genes"](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awab260/6503584) was published in Brain on 12 January 2022.
 
 
 
