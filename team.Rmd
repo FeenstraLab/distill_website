@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Bjarke Feenstra**  
 ```{r, echo=FALSE}
-knitr::include_graphics("images/BF_telemark2.png")
+#knitr::include_graphics("images/BF_telemark2.png")
 ```
 Senior researcher, group leader  
 [Twitter](https://twitter.com/bjarkefeenstra)  
@@ -22,20 +22,52 @@ Senior researcher, group leader
 **Frank Geller**  
 Senior researcher  
 
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
+  
 **Xiaoping Wu**  
 Postdoc
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
 
 **Niklas Andersson**  
 PhD student
 
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
 **Victor Yakimov**  
 PhD student
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
 
 **Salvör Ísberg**  
 Student research assistant
 
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
 **João Fadista**  
 Affiliated researcher
 
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
+
 **Line Skotte**  
 Affiliated researcher
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
