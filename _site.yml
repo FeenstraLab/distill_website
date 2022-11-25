@@ -22,6 +22,5 @@ navbar:
   search: false
 output: 
   distill::distill_article:
-
-output_dir: "."   
+   
 
