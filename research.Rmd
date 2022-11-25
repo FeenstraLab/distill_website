@@ -45,4 +45,3 @@ For thousands of years, Greenlanders have lived in isolation and have eaten a di
 * Andersen MK, et al. Loss of sucrase-isomaltase function increases acetate levels and improves metabolic health in Greenlandic cohorts. Gastroenterology 2022, 162(4), 1171-1182. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1053/j.gastro.2021.12.236)
 
 <iframe src="https://player.vimeo.com/video/223094867?h=6261f67c95" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
