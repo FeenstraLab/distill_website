@@ -10,6 +10,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 **Bjarke Feenstra**  
+```{r, echo=FALSE}
+knitr::include_graphics("images/BF_telemark2.png")
+```
 Senior researcher, group leader  
 [Twitter](https://twitter.com/bjarkefeenstra)  
 [LinkedIn](https://www.linkedin.com/in/bjarke-feenstra-6230374/)    
