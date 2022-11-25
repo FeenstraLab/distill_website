@@ -7,7 +7,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ### Location
-In the group, we divide our time between two different locations in Copenhagen. So, you can visit us here (se also map below):
+In the group, we divide our time between two different locations in Copenhagen. So, you can visit us here (see also map below):
 
 Copenhagen Hospital Biobank Unit  
 Copenhagen University Hospital, Rigshospitalet  
