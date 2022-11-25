@@ -21,5 +21,4 @@ navbar:
       href: contact.html 
   search: false
 output: 
-  html_document:
-
+  distill::distill_article
