@@ -50,10 +50,12 @@ knitr::include_graphics("images/person-icon-1672 (1).png")
 ```
 
 **Salvör Ísberg**  
-Student research assistant
+Student research assistant  
+[Twitter](https://twitter.com/salvorisberg)  
+[LinkedIn](https://is.linkedin.com/in/salv%C3%B6r-%C3%ADsberg-432561195)  
 
-```{r, echo=FALSE, out.width = "50px"}
-knitr::include_graphics("images/person-icon-1672 (1).png")
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/slis_image.png")
 ```
 
 **João Fadista**  
