@@ -22,18 +22,18 @@ Senior researcher, group leader
 **Frank Geller**  
 Senior researcher  
 
-```{r, echo=FALSE, out.width = "50px"}
-knitr::include_graphics("images/person-icon-1672 (1).png")
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/FGE.jpg")
 ```
 
   
 **Xiaoping Wu**  
 Postdoc
 
-```{r, echo=FALSE, out.width = "50px"}
-knitr::include_graphics("images/person-icon-1672 (1).png")
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/xiaoping.jpeg")
 ```
-
+[GitHub]("https://xiaoping-wu.github.io/XiaopingWu/")
 
 **Niklas Andersson**  
 PhD student
